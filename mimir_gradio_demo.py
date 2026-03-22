@@ -28,8 +28,9 @@ if IN_COLAB:
     import subprocess, sys
     subprocess.check_call([
         sys.executable, "-m", "pip", "install", "-q",
-        "vividmimir[all]", "gradio", "transformers", "accelerate",
-        "bitsandbytes", "torch",
+        "vividmimir[all]", "gradio",
+        "git+https://github.com/huggingface/transformers.git",
+        "accelerate", "bitsandbytes", "torch",
     ])
 
 import gradio as gr
