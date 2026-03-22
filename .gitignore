@@ -9,6 +9,7 @@ _test_godtier.py
 
 # Data directories
 mimir_data/
+mimir_demo_data/
 
 # Pytest / IDE caches
 .pytest_cache/
