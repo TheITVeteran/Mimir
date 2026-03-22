@@ -1,5 +1,9 @@
 # Mímir — The Ultimate Memory Architecture
 
+<p align="center">
+  <img src="MimirLogo.png" alt="Mímir Logo" width="300">
+</p>
+
 [![PyPI](https://img.shields.io/pypi/v/vividmimir)](https://pypi.org/project/vividmimir/)
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/license-PolyForm--NC-blue)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
